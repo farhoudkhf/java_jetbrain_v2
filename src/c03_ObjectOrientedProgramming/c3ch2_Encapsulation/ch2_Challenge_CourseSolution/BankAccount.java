@@ -1,4 +1,4 @@
-package c03_ObjectOrientedProgramming.c3ch2_Encapsulation.ch2_Challenge_Course_Solution;
+package c03_ObjectOrientedProgramming.c3ch2_Encapsulation.ch2_Challenge_CourseSolution;
 
 public class BankAccount {
     private String owner;
