@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java_essentials_v2.iml" filepath="$PROJECT_DIR$/java_essentials_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Java Foundations Professional Certificate by JetBrains/c05 Java JDBC/learning-jdbc-2725172-1/learning-jdbc/src/main/main.iml" filepath="$PROJECT_DIR$/../Java Foundations Professional Certificate by JetBrains/c05 Java JDBC/learning-jdbc-2725172-1/learning-jdbc/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Java Foundations Professional Certificate by JetBrains/c05 Java JDBC/learning-jdbc-2725172-1/learning-jdbc/src/test/test.iml" filepath="$PROJECT_DIR$/../Java Foundations Professional Certificate by JetBrains/c05 Java JDBC/learning-jdbc-2725172-1/learning-jdbc/src/test/test.iml" />
     </modules>
   </component>
 </project>
